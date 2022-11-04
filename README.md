@@ -23,6 +23,12 @@ SHOPIFY_API_PASSWORD=<add>
 Editer le fichier `app/config.js` pour choisir les paramètres de la facture
 (logo, polices, couleurs, dossier de destination etc ...)
 
+Dans le fichier `app/config.js`, indiquez le dossier ou vous souhaitez que le factures aillent
+
+```sh
+invoicesDestinationPath: "/Users/andre/Invoices",
+```
+
 ## Utilisation
 
 Script a lancer pour generer les factures
