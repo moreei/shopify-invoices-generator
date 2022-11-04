@@ -1,11 +1,6 @@
 # Shopify Invoices Generator
 
-> Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-Fonctionne avec node.js et yarn qu'il faut installer au préalable
+> Fonctionne avec node.js et yarn qu'il faut installer au préalable.
 
 ## Installation
 
