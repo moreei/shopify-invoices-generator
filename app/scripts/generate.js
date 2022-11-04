@@ -9,7 +9,7 @@ import { Path } from "../config.js";
 const destinationPath = Path.invoicesDestinationPath;
 const separator = "------------------------";
 const waitingTimeMilliseconds = 3000;
-const perLap = 5;
+const perLap = 200;
 
 let since_id = 0;
 //since_id = 378801455155; // #1001
